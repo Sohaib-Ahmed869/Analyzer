@@ -1,0 +1,109 @@
+[
+  {
+    "variable": "temperature",
+    "condition": ">",
+    "value": 30
+  },
+  {
+    "variable": "humidity",
+    "condition": "<",
+    "value": 60
+  },
+  {
+    "variable": "windSpeed",
+    "condition": "<",
+    "value": 10
+  },
+  {
+    "variable": "temperature",
+    "condition": ">=",
+    "value": 25
+  },
+  {
+    "variable": "humidity",
+    "condition": ">=",
+    "value": 60
+  },
+  {
+    "variable": "temperature",
+    "condition": "<=",
+    "value": 10
+  },
+  {
+    "variable": "windSpeed",
+    "condition": ">=",
+    "value": 20
+  }
+][
+  {
+    "variable": "temperature",
+    "condition": ">",
+    "value": 30
+  },
+  {
+    "variable": "humidity",
+    "condition": "<",
+    "value": 60
+  },
+  {
+    "variable": "windSpeed",
+    "condition": "<",
+    "value": 10
+  },
+  {
+    "variable": "temperature",
+    "condition": ">=",
+    "value": 25
+  },
+  {
+    "variable": "humidity",
+    "condition": ">=",
+    "value": 60
+  },
+  {
+    "variable": "temperature",
+    "condition": "<=",
+    "value": 10
+  },
+  {
+    "variable": "windSpeed",
+    "condition": ">=",
+    "value": 20
+  }
+][
+  {
+    "variable": "temperature",
+    "condition": ">",
+    "value": 30
+  },
+  {
+    "variable": "humidity",
+    "condition": "<",
+    "value": 60
+  },
+  {
+    "variable": "windSpeed",
+    "condition": "<",
+    "value": 10
+  },
+  {
+    "variable": "temperature",
+    "condition": ">=",
+    "value": 25
+  },
+  {
+    "variable": "humidity",
+    "condition": ">=",
+    "value": 60
+  },
+  {
+    "variable": "temperature",
+    "condition": "<=",
+    "value": 10
+  },
+  {
+    "variable": "windSpeed",
+    "condition": ">=",
+    "value": 20
+  }
+]
